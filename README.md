@@ -19,14 +19,14 @@ Deployment has been split into two different approaches:
  1. Authentication
  2. AutoML Experiment
  ### Dataset registration
- ![img](/img/dataset.png)
+ ![img](/img/dataset.PNG)
 Dataset has been registered as a tabular dataset
 ### AutoML Experiment
-![img](/img/experiment.png)
-![img](/img/bestmodel3.png)
-![img](/img/bestmodel2.png)
-![img](/img/bestmodel1.png)
-![img](/img/votingensemble.png)
+![img](/img/experiment.PNG)
+![img](/img/bestmodel3.PNG)
+![img](/img/bestmodel2.PNG)
+![img](/img/bestmodel1.PNG)
+![img](/img/votingensemble.PNG)
 
 The best model found during automl was VotingEnsemble
 
@@ -34,14 +34,15 @@ The best model found during automl was VotingEnsemble
 The best model has been deployed manually into ACI with authentication enabled.
 
 4. Enable logging
-![img](/img/logs.png)
-![img](/img/appinsights.png)
+
+![img](/img/logs.PNG)
+![img](/img/appinsights.PNG)
 
 5. Swagger
-![img](/img/swagger1.png)
-![img](/img/swagger2.png)
+![img](/img/swagger1.PNG)
+![img](/img/swagger2.PNG)
 
 6. Consume endpoint
-![img](/img/consume1.png)
+![img](/img/consume1.PNG)
 
 7. Pipeline execution
