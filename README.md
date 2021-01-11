@@ -39,10 +39,12 @@ The best model has been deployed manually into ACI with authentication enabled.
 ![img](/img/appinsights.PNG)
 
 5. Swagger
+
 ![img](/img/swagger1.PNG)
 ![img](/img/swagger2.PNG)
 
 6. Consume endpoint
+
 ![img](/img/consume1.PNG)
 
 7. Pipeline execution
