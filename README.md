@@ -18,15 +18,16 @@ Deployment has been split into two different approaches:
 ## Key Steps
  1. Authentication
  2. AutoML Experiment
- ### Dataset registration
- ![img](/img/dataset.PNG)
+
+### Dataset registration
+![img](/img/dataset.PNG)
 Dataset has been registered as a tabular dataset
 ### AutoML Experiment
 ![img](/img/experiment.PNG)
 ![img](/img/bestmodel3.PNG)
 ![img](/img/bestmodel2.PNG)
 ![img](/img/bestmodel1.PNG)
-![img](/img/votingensemble.PNG)
+![img](/img/VotingEnsemble.PNG)
 
 The best model found during automl was VotingEnsemble
 
